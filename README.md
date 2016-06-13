@@ -1,4 +1,3 @@
-# primerproyectoandroid
 
 Crea un proyecto en Android que:
 
